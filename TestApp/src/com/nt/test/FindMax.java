@@ -10,6 +10,7 @@ public class FindMax {
 		for(String name:names){
 			System.out.println(name);
 		}
+		System.out.println("finish");
 
 
 		
