@@ -9,7 +9,7 @@ public class FindMax {
 		//iterate over the array
 		for(String name:names){
 			System.out.println(name);
-			System.out.println("how r u doing today buddy");
+			//System.out.println("how r u doing today buddy");
 		}
 
 		
