@@ -6,11 +6,10 @@ public class FindMax {
 		
 		//string array is created
 		String[] names={"rama","shyama","mona"};
-		
-		for(int i=0; i<names.length;i++){
-			System.out.println(names[i]);
+		//changes way of iteration
+		for(String name:names){
+			System.out.println(name);
 		}
-		
 	}
 
 }
